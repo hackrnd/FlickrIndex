@@ -3,6 +3,6 @@ clarifai==0.2
 httplib2==0.9.1
 simplejson==3.7.3
 six==1.9.0
-urllib3==1.10.4
+urllib3==1.26.5
 wsgiref==0.1.2
 flickrapi==2.1.2
